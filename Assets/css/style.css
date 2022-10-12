@@ -1,0 +1,15 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif ;
+    font-size: 16px;
+}
+
+.topnavbar {
+    text-align: center;
+    background-color: rgb(17, 18, 35);
+    color: rgb(209, 209, 209);
+    padding: 15px 15px;
+}
