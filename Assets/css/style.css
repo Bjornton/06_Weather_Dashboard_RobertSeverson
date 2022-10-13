@@ -1,10 +1,7 @@
-* {
-    box-sizing: border-box;
-}
-
 body {
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif ;
     font-size: 16px;
+    margin-top: 5px;
 }
 
 .topnavbar {
@@ -13,3 +10,35 @@ body {
     color: rgb(209, 209, 209);
     padding: 15px 15px;
 }
+
+.search-column {
+    height: 100%;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: left;
+}
+
+ul { 
+    list-style-type: none;
+    padding-left: 0;
+}
+
+li { 
+    font-size: 10pt;
+    padding: 5px 0px;
+}
+
+.col { 
+    padding: 2px;
+}
+
+.card {
+    width: 100%;
+    background-color: #ececec;
+}
+
